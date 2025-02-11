@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Broomlr-dev
-- 👀 I’m interested in coding in LUA
-- 🌱 I’m currently know some stuff
-- 📫 How to reach me liamridley121@gmail.com or business@cloudworksmanager.co.uk
+- 👀 I’m interested in coding in .LUA and .HTML
+- 🌱 I currently know some coding
+- 📫 How to reach me business@cloudworksmanager.co.uk or liamridley121@gmail.com
 
 <!---
 Broomlr-dev/Broomlr-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
